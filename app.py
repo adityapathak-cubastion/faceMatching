@@ -10,7 +10,7 @@ os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 from werkzeug.serving import WSGIRequestHandler
 WSGIRequestHandler.protocol_version = "HTTP/1.1"
 
-with open("C:/Users/AdityaPathak/Desktop/faceMatching_LocalFolder/faiss_model.pkl", "rb") as f:
+with open("C:/Users/AdityaPathak/Desktop/faceMatching/faiss_model.pkl", "rb") as f:
     index, file_paths = pickle.load(f)
 
 mtcnn = MTCNN(image_size = 160, margin = 0, min_face_size = 40)
