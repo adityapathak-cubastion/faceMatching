@@ -15,7 +15,7 @@ Potential improvements that I want to implement:
 - Adding more information for better face matching!
 
 ## Acknowledgements
-Thanks to Akshay sir, Abhishek sir, Balesh sir, and Mayank for the constant guidance and support.<br>
+Thanks to Akshay sir, Abhishek sir, Roshan sir, Himanshu sir, Balesh sir, and Mayank for the constant guidance and support.<br>
 Thanks to Cubastion Consulting Pvt. Ltd. for a productive and supportive environment that fosters learning.
 
 <img src = "https://github.com/adityapathak-cubastion/faceMatching/blob/main/actorRecognition-face_recognition/generating_encodings.png">
